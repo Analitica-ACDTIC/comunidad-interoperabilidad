@@ -56,7 +56,6 @@ A su vez, Slack se conecta con el presente repositorio en GitHub para gestionar 
 
 ### Estamos comprometidos con el cumplimiento de nuestros lineamientos y alentamos a la comunidad a que comunique cualquier falta o situación que vaya en contra de este código de conducta.
 
-
 (*) Lineamientos basados en los lineamientos de comunidad de Platzi
 
 (**) Fuentes: https://github.com/BID-COMUNIDADES/codigo-de-conducta y Microsoft: New Yammer Launch and Adoption Playbook
