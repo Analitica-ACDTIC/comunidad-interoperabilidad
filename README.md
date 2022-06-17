@@ -27,7 +27,7 @@ Lo anterior, a través de los siguientes enfoques:
 En general, corresponden a las Entidades distritales: Servidores públicos y colaboradores de diferentes sectores del distrito y de áreas interdisciplinarias tales como planeación, comunicación, información, datos, investigación, funcionales, tecnología, interesados o relacionados con actividades de intercambio de información con otras entidades. 
 
 ## Herramientas y proceso para vincularse a la Comunidad de Interoperabilidad del Distrito 
-Se crea un espacio en Slack para la comunidad: [Únete a la comunidad aquí](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-184wrvjno-reoqs~pCw0HTn5BLaPmM5Q)
+Se crea un espacio en Slack para la comunidad: [Únete a la comunidad aquí](https://join.slack.com/t/comunidaddeanaltica/shared_invite/zt-1b6d204ao-npXXVtzXM6AicDesbwS0pw)
 
 A su vez, Slack se conecta con el presente repositorio en GitHub para gestionar la documentación que se genere en la comunidad.
 
